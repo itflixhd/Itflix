@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="O Cavaleiro dos Sete Reinos S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/7ObYQlxM29YYatbAsclcW2Pgu7J.jpg" group-title="O Cavaleiro dos Sete Reinos (2026)", O Cavaleiro dos Sete Reinos S01 E01
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2d6698530e7fa5bab72cbf1fceaa9d58ac6c0f3&dn=HIDRATORRENTS.ORG.-S01E01-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
+
+#EXTINF:-1 tvg-id="O Cavaleiro dos Sete Reinos S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/7ObYQlxM29YYatbAsclcW2Pgu7J.jpg" group-title="O Cavaleiro dos Sete Reinos (2026)", O Cavaleiro dos Sete Reinos S01 E02
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e782732cac433f1d434fcf7cc42b4814aa89bb9&dn=HIDRATORRENTS.ORG.-S01E02-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
+
+#EXTINF:-1 tvg-id="O Cavaleiro dos Sete Reinos S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/7ObYQlxM29YYatbAsclcW2Pgu7J.jpg" group-title="O Cavaleiro dos Sete Reinos (2026)", O Cavaleiro dos Sete Reinos S01 E03
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336d6a64674243620192c31cea88f5cbb20e2d29&dn=HIDRATORRENTS.ORG.-S01E03-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
+
+#EXTINF:-1 tvg-id="O Cavaleiro dos Sete Reinos S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/7ObYQlxM29YYatbAsclcW2Pgu7J.jpg" group-title="O Cavaleiro dos Sete Reinos (2026)", O Cavaleiro dos Sete Reinos S01 E04
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:750c60f79ef99c176bb0df52f5565669fc310a98&dn=HIDRATORRENTS.ORG.-S01E04-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.tmdb.org/t/p/original/yJQGiHcHWofZEL5mDvSgbVMUMUK.jpg" group-title="Spartacus: House of Ashur (2025)", Spartacus: House of Ashur S01 E01-E02
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1e1de540d5f4d50090be1cf37dd8e8f0a75d14e&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.Spartacus.House.of.Ashur.S01E01-02.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
 
@@ -25,3 +37,18 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f087305a33c5db6b44e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.tmdb.org/t/p/original/yJQGiHcHWofZEL5mDvSgbVMUMUK.jpg" group-title="Spartacus: House of Ashur (2025)", Spartacus: House of Ashur S01 E010
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8ed9f0c8afba9f14a03bb1b5a13c119e42cc218&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.Spartacus.House.of.Ashur.S01E10.WEB-DL.1080p.x264.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+
+#EXTINF:-1 tvg-id="The Pitt S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg" group-title="The Pitt (2025)", The Pitt S02 E01
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47cf879bcea80f70d97c754f261ec6fbb07b0c33&dn=HIDRATORRENTS.ORG.-S02E01-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
+
+#EXTINF:-1 tvg-id="The Pitt S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg" group-title="The Pitt (2025)", The Pitt S02 E02
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:943db303555b537cb9b5dc3ce29db035d381bd68&dn=HIDRATORRENTS.ORG.-S02E02-1080P-..MKV.-DUBLADO-DUAL-AUDIO-..
+
+#EXTINF:-1 tvg-id="The Pitt S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg" group-title="The Pitt (2025)", The Pitt S02 E03
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:841501c208dc52aded39de3ed242477d95a858e7&dn=HIDRATORRENTS.ORG.-S02E03-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
+
+#EXTINF:-1 tvg-id="The Pitt S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg" group-title="The Pitt (2025)", The Pitt S02 E04
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:595b08ffd626682e672d320cf0237dfe9773bcfa&dn=HIDRATORRENTS.ORG.-S02E04-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
+
+#EXTINF:-1 tvg-id="The Pitt S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg" group-title="The Pitt (2025)", The Pitt S02 E05
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b496a11699c7940d8d153a699f6c333ab2d8ff9&dn=HIDRATORRENTS.ORG.-S02E05-1080P-..1080P.MKV.-DUBLADO-DUAL-AUDIO-..
