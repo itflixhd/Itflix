@@ -4,11 +4,11 @@
 	<!-- opicional -->
     <channels_info> <!-- this is opitonal -->
       <title>ITFLIX</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>TV Online, Filmes, Series</genre>
+      <genre>TV Online Filmes Series</genre>
       <description>Conteúdo Itflix</description>
       <thumbnail>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</thumbnail>
       <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
-      <date>10.02.2026</date>
+      <date>04.01.2013</date>
       <credits>ITFLIX</credits>
     </channels_info>
 	<!-- opicional -->
