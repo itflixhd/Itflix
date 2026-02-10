@@ -2,21 +2,21 @@
 <items>
 
     <item>
-        <title>馃摗 TV Online</title>
+        <title>TV Online</title>
         <action>tv</action>
         <thumbnail>https://i.imgur.com/tv.png</thumbnail>
         <fanart>https://i.imgur.com/fanart.jpg</fanart>
     </item>
 
     <item>
-        <title>馃幀 Filmes</title>
+        <title>Filmes</title>
         <action>filmes</action>
         <thumbnail>https://i.imgur.com/filmes.png</thumbnail>
         <fanart>https://i.imgur.com/fanart.jpg</fanart>
     </item>
 
     <item>
-        <title>馃摵 S茅ries</title>
+        <title>Series</title>
         <action>series</action>
         <thumbnail>https://i.imgur.com/series.png</thumbnail>
         <fanart>https://i.imgur.com/fanart.jpg</fanart>
