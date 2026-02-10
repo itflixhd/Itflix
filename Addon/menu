@@ -1,66 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
-<channels>
-	<!-- opicional -->
-    <channels_info> <!-- this is opitonal -->
-      <title>ITFLIX</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>TV Online Filmes Series</genre>
-      <description>Conteúdo Itflix</description>
-      <thumbnail>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</thumbnail>
-      <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>ITFLIX</credits>
-    </channels_info>
-	<!-- opicional -->
-  
-       	
-    <channel>
-        <name>Tv Online</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Animes</info>
-		<externallink>http://localhost/gujal/itensrc.xml</externallink>
-    </channel>
+    <item>
+        <title>馃摗 TV Online</title>
+        <action>tv</action>
+        <thumbnail>https://i.imgur.com/tv.png</thumbnail>
+        <fanart>https://i.imgur.com/fanart.jpg</fanart>
+    </item>
 
-        	
-	<channel>
-        <name>Filmes 4K</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Canais do farruk</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
-    </channel>
+    <item>
+        <title>馃幀 Filmes</title>
+        <action>filmes</action>
+        <thumbnail>https://i.imgur.com/filmes.png</thumbnail>
+        <fanart>https://i.imgur.com/fanart.jpg</fanart>
+    </item>
 
-</channels>	
+    <item>
+        <title>馃摵 S茅ries</title>
+        <action>series</action>
+        <thumbnail>https://i.imgur.com/series.png</thumbnail>
+        <fanart>https://i.imgur.com/fanart.jpg</fanart>
+    </item>
 
-         	
-         		<channel>
-        <name>Series 4K</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Canais do farruk</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
-    </channel>
-
-</channels>	
-
-          	
-          		<channel>
-        <name>Animes 4K</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Canais do farruk</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
-    </channel>
-
-</channels>	
-        	
-        		<channel>
-        <name>Kids</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Canais do farruk</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
-    </channel>
-
-</channels>	
+</items>
