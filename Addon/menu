@@ -4,15 +4,17 @@
 	<!-- opicional -->
     <channels_info> <!-- this is opitonal -->
       <title>ITFLIX</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>Filmes e Series</genre>
+      <genre>TV Online, Filmes, Series</genre>
       <description>Conteúdo Itflix</description>
       <thumbnail>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</thumbnail>
       <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
-      <date>04.01.2013</date>
+      <date>10.02.2026</date>
       <credits>ITFLIX</credits>
     </channels_info>
 	<!-- opicional -->
-    
+  
+       	<!-- Categoria De Canais -->
+       	
     <channel>
         <name>Tv Online</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
@@ -20,9 +22,46 @@
 		<info>Animes</info>
 		<externallink>http://localhost/gujal/itensrc.xml</externallink>
     </channel>
-	
+
+        	<!-- Filmes 4k -->
+        	
 	<channel>
-        <name>Filmes</name>
+        <name>Filmes 4K</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+</channels>	
+
+         	<!-- Series 4K -->
+         	
+         		<channel>
+        <name>Series 4K</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+</channels>	
+
+          	<!-- Animes 4K -->
+          	
+          		<channel>
+        <name>Animes 4K</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+</channels>	
+        	<!-- Kids -->
+        	
+        		<channel>
+        <name>Kids</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Canais do farruk</info>
