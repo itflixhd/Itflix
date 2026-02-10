@@ -13,7 +13,6 @@
     </channels_info>
 	<!-- opicional -->
   
-       	<!-- Categoria De Canais -->
        	
     <channel>
         <name>Tv Online</name>
@@ -23,7 +22,6 @@
 		<externallink>http://localhost/gujal/itensrc.xml</externallink>
     </channel>
 
-        	<!-- Filmes 4k -->
         	
 	<channel>
         <name>Filmes 4K</name>
@@ -35,7 +33,6 @@
 
 </channels>	
 
-         	<!-- Series 4K -->
          	
          		<channel>
         <name>Series 4K</name>
@@ -47,7 +44,6 @@
 
 </channels>	
 
-          	<!-- Animes 4K -->
           	
           		<channel>
         <name>Animes 4K</name>
@@ -58,7 +54,6 @@
     </channel>
 
 </channels>	
-        	<!-- Kids -->
         	
         		<channel>
         <name>Kids</name>
