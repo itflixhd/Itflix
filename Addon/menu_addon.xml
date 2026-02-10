@@ -12,6 +12,8 @@
       <credits>Iflix, Addon</credits>
     </channels_info>
 	<!-- opicional -->
+  
+    =========== [ Tv online] =========
     
     <channel>
         <name>TV online</name>
@@ -20,12 +22,14 @@
 		<info>Os Melhores Canais Boa Qualidad Estao Aqui</info>
 		<externallink>http://localhost/gujal/itensrc.xml</externallink>
     </channel>
-	
+
+    =========== [ FILMES ] =========
+    
 	<channel>
-        <name>CANAIS FARRUK</name>
+        <name>Filmes 4K</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Canais do farruk</info>
+        <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
+		<info>vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpgOs Melhor Filmes Lancamentos Em 4k Estao Aqui.</info>
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
     </channel>
 
