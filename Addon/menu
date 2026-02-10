@@ -1,7 +1,32 @@
-<item>
-<title>Seja Bem vindo ao Itflix</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	<!-- opicional -->
+    <channels_info> <!-- this is opitonal -->
+      <title>ITFLIX</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Filmes e Series</genre>
+      <description>Conteúdo Itflix</description>
+      <thumbnail>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>ITFLIX</credits>
+    </channels_info>
+	<!-- opicional -->
+    
+    <channel>
+        <name>ANIMES</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>CANAIS FARRUK</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+</channels>	
