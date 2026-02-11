@@ -17,7 +17,7 @@
     
     <channel>
         <name>TV online</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>https://mega.nz/file/8uAWCKLY#CxxTxeqJNuWu2tRLf6ylY9kspkQpQVkCZhhmNyAQsow</thumbnail>
         <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
 		<info>Os Melhores Canais Boa Qualidad Estao Aqui</info>
 		<externallink>http://localhost/gujal/itensrc.xml</externallink>
@@ -27,7 +27,7 @@
     
 	<channel>
         <name>Filmes 4K</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>https://mega.nz/file/IqgwGIxR#jwkXccO2Om8DPzKZUlzRjiFPJFij6QyUrW8_Ul7Bp2Y</thumbnail>
         <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
 		<info>Os Melhor Filmes Lancamentos Em 4k Estao Aqui.</info>
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
@@ -37,7 +37,7 @@
     
 	<channel>
         <name>Series 4K</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>https://mega.nz/file/JvZ1VZ4B#PePO4BBmgRSK6C41xHNhkw-ivkU-9yKB6yaxJhq_4y8</thumbnail>
         <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
 		<info>As Melhores Series Em 4k Estao Aqui.</info>
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
@@ -53,13 +53,13 @@
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
     </channel>
 
-=========== [ ANIMES ] =========
+      =========== [ ANIMES ] =========
     
 	<channel>
-        <name>Animes</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <name>Mundo Animes</name>
+        <thumbnail>https://mega.nz/file/1ywCzRQL#2h7f-BOJrcYP3hTScD_CW5Zc3JJIxGRgoj5uMualUvU</thumbnail>
         <fanart>https://image.tmdb.org/t/p/original/y5uLWuHpUe3Gcpnq3oMIHLdfQO3.jpg</fanart>
-		<info>Melhor Do Mundo Kids Esta Aqui</info>
+		<info>Melhoes Animes está aqui Aqui</info>
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
     </channel>
 
