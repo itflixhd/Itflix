@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	<!-- opicional -->
+    <channels_info> <!-- this is opitonal -->
+      <title>Itflix</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TV Online, Filmes, Series, Kids, Animes</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>10.02.2026</date>
+      <credits>Iflix, Addon</credits>
+    </channels_info>
+	<!-- opicional -->
+  
+    =========== [ Canais Alberto ] =========
+    
+    <channel>
+        <name>Canais Aberto</name>
+        <thumbnail>https://mega.nz/file/8uAWCKLY#CxxTxeqJNuWu2tRLf6ylY9kspkQpQVkCZhhmNyAQsow</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
+		<info>Os Melhores Canais Boa Qualidad Estao Aqui</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+    =========== [ Esportes ] =========
+    
+	<channel>
+        <name>Esportes</name>
+        <thumbnail>https://mega.nz/file/IqgwGIxR#jwkXccO2Om8DPzKZUlzRjiFPJFij6QyUrW8_Ul7Bp2Y</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
+		<info>Os Melhor Filmes Lancamentos Em 4k Estao Aqui.</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+    =========== [ FILMES E SERIES ] =========
+    
+	<channel>
+        <name>Filmes  Series</name>
+        <thumbnail>https://mega.nz/file/JvZ1VZ4B#PePO4BBmgRSK6C41xHNhkw-ivkU-9yKB6yaxJhq_4y8</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg</fanart>
+		<info>As Melhores Series Em 4k Estao Aqui.</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+</channels>	
+
+  
+    
