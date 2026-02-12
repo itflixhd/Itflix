@@ -13,14 +13,14 @@
     </channels_info>
 	<!-- opicional -->
   
-    =========== [ Canais Alberto ] =========
+    =========== [ Canais Aberto ] =========
     
     <channel>
         <name>Canais Aberto</name>
         <thumbnail>https://drive.google.com/uc?export=download&id=1qnpMPQDbsjHanK-N-LCAicPwnOhGIpR6</thumbnail>
         <fanart>https://drive.google.com/uc?export=download&id=1nmRR2q81JNS6yZ9c4YzxEoO1HkTj1p6S</fanart>
 		<info>Os Melhores Canais Boa Qualidad Estao Aqui</info>
-		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/Addon/Tv/Canais%20aberto%20/Canais_aberto_xml</externallink>
     </channel>
 
     =========== [ Esportes ] =========
