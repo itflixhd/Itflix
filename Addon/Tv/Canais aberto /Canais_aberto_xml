@@ -1,32 +1,46 @@
+    =============[ Agro+ ]===========
+                 [   4K  ]
 <item>
-<title>[B]Agro+[/B]</title>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMTSSeomo0Ww4jsryLIOsEie3zMGkg7IxkWTbl1wr0yuEtCxn0dz6Xoc&s=10</thumbnail>
-<fanart>https://agromais.uol.com.br/wp-content/uploads/2024/12/agro-16-1.jpg</fanart>
-
-<info>Descrição do filme aqui.</info>
-
-<!-- 4K -->
-<item>
-<title>▶ 4K</title>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMTSSeomo0Ww4jsryLIOsEie3zMGkg7IxkWTbl1wr0yuEtCxn0dz6Xoc&s=10</thumbnail>
-<fanart>https://agromais.uol.com.br/wp-content/uploads/2024/12/agro-16-1.jpg</fanart>
+<title>[B]Agro+ 4K[/B]</title>
 <link>https://dg25.me/live/78923556/67553349/3915971.ts</link>
-</item>
-
-<!-- HD -->
-<item>
-<title>▶ HD</title>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMTSSeomo0Ww4jsryLIOsEie3zMGkg7IxkWTbl1wr0yuEtCxn0dz6Xoc&s=10</thumbnail>
 <fanart>https://agromais.uol.com.br/wp-content/uploads/2024/12/agro-16-1.jpg</fanart>
+<info>Agro+ é um canal de televisão brasileiro 100% dedicado ao agronegócio, com programação focada em informação, jornalismo e conteúdo especializado sobre o setor agropecuário.
+Ele traz:
+Notícias do campo e economia do agro
+Programas sobre produção rural, tecnologia, sustentabilidade e mercado
+Entrevistas com especialistas e líderes do setor
+Cobertura de eventos, análises e debates importantes para produtores e interessados na cadeia produtiva agrícola e pecuária 
+Conteúdo pensado tanto para quem atua no campo quanto para quem quer entender como o agronegócio impacta a economia e a sociedade brasileira.</info>
+</item>
+   
+                  [   HD  ]
+<item>
+<title>[B]Agro+ HD[/B]</title>
 <link>https://dg25.me/live/78923556/67553349/3915972.ts</link>
-</item>
-
-<!-- SD -->
-<item>
-<title>▶ SD</title>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMTSSeomo0Ww4jsryLIOsEie3zMGkg7IxkWTbl1wr0yuEtCxn0dz6Xoc&s=10</thumbnail>
 <fanart>https://agromais.uol.com.br/wp-content/uploads/2024/12/agro-16-1.jpg</fanart>
+<info>Agro+ é um canal de televisão brasileiro 100% dedicado ao agronegócio, com programação focada em informação, jornalismo e conteúdo especializado sobre o setor agropecuário.
+Ele traz:
+Notícias do campo e economia do agro
+Programas sobre produção rural, tecnologia, sustentabilidade e mercado
+Entrevistas com especialistas e líderes do setor
+Cobertura de eventos, análises e debates importantes para produtores e interessados na cadeia produtiva agrícola e pecuária 
+Conteúdo pensado tanto para quem atua no campo quanto para quem quer entender como o agronegócio impacta a economia e a sociedade brasileira.</info>
+</item>
+   
+                 [   SD  ]
+<item>
+<title>[B]Agro+ SD[/B]</title>
 <link>https://dg25.me/live/78923556/67553349/3915973.ts</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMTSSeomo0Ww4jsryLIOsEie3zMGkg7IxkWTbl1wr0yuEtCxn0dz6Xoc&s=10</thumbnail>
+<fanart>https://agromais.uol.com.br/wp-content/uploads/2024/12/agro-16-1.jpg</fanart>
+<info>Agro+ é um canal de televisão brasileiro 100% dedicado ao agronegócio, com programação focada em informação, jornalismo e conteúdo especializado sobre o setor agropecuário.
+Ele traz:
+Notícias do campo e economia do agro
+Programas sobre produção rural, tecnologia, sustentabilidade e mercado
+Entrevistas com especialistas e líderes do setor
+Cobertura de eventos, análises e debates importantes para produtores e interessados na cadeia produtiva agrícola e pecuária 
+Conteúdo pensado tanto para quem atua no campo quanto para quem quer entender como o agronegócio impacta a economia e a sociedade brasileira.</info>
 </item>
-
-</item>
+   
