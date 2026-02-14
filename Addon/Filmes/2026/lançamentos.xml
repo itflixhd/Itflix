@@ -1,19 +1,10 @@
-<layouttype>thumbnail</layouttype>
-   
-             ========= [ FILMES ] =========
-<channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]2026[/COLOR][/B]</name>
-<thumbnail>https://drive.google.com/uc?export=download&id=1M7ZqnOGJstDkN3vlaF6rpixIjHbPGN4l</thumbnail>
-<externallink>https://pastebin.com/raw/VFcESdpS</externallink>
-<fanart>https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg</fanart>
-<info>[B]INFORMAÇÃO IMPORTANTE DOS NOSSO ADDON:[/B] 
-As cores colorida, corresponde o que está sendo feito no Addon. Para nossos usuários está ciente de tudo.
-[B][COLOR lime]●[/COLOR] Online[/B] 
-[B][COLOR yellow]●[/COLOR] Pasta em Desenvolvimento[/B] 
-[B][COLOR red]●[/COLOR] Manutenção [/B]
-
-Fique por dentro das novidades do cinema com a categoria Lançamentos! Aqui você encontra os filmes mais recentes, sucessos que acabaram de sair das telonas e estreias que estão dando o que falar. Dos grandes blockbusters cheios de ação às histórias emocionantes, comédias imperdíveis e produções que conquistaram o público, tudo reunido em um só lugar para você assistir primeiro.
-</info>
-</channel>
-
-</channels>
+=============[  Predador: Terras Selvagens (2025) ]===========
+                          
+<item>
+<title>[B]Predador: Terras Selvagens (2025)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f23a3bf233058ee489589baf770f3935c0f3711a&dn=HIDRATORRENTS.ORG...1080P.MKV.-DUBLADO-DUAL-AUDIO-..</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zBoNq1EhK0CYNw7WHgJDpJ1qSQo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iYxzsEBJnFzcgX0amOD6NcaCuPz.jpg</fanart>
+<info>Sinopse
+No futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.</info>
+</item>
