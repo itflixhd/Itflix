@@ -20,7 +20,7 @@ Entretenimento sem limites, direto na sua tela.</info>
 
              ========= [ FILMES ] =========
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR yellow]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://drive.google.com/uc?export=download&id=1M7ZqnOGJstDkN3vlaF6rpixIjHbPGN4l</thumbnail>
 <externallink>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/Addon/Filmes/menu_categoria_filmes.xml</externallink>
 <fanart>https://image.tmdb.org/t/p/original/mS8VzsUT7QUvWZwwtVyLN4YP1a0.jpg</fanart>
