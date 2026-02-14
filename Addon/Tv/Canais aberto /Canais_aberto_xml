@@ -156,3 +156,35 @@ Conteúdo pensado tanto para quem atua no campo quanto para quem quer entender c
 <fanart>https://s2-oglobo.glbimg.com/g2bXB-QYBGRLNrsF9YH_GbCiAHY=/0x0:860x477/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/W/k/H3zanCSG27NyJ3q03M2w/tv-brasil-logo-860x477.jpg</fanart>
 <info>A TV Brasil apresenta telejornais, programas infantis, séries, documentários, debates e produções independentes de várias regiões do país. A emissora busca promover informação de qualidade, cultura nacional, inclusão social e conteúdos que fortalecem a identidade brasileira.</info>
 </item>
+
+
+  =============[  TV Cultura ]===========
+             [  TV CULTURA 4K  ]
+<item>
+<title>[B]TV Cultura 4K[/B]</title>
+<link>https://dg25.me/live/78923556/67553349/3915995.ts</link>
+<thumbnail></thumbnail>
+<fanart>https://static.wikia.nocookie.net/tvpediabrasil/images/3/33/Tvcultura.jpg/revision/latest/scale-to-width-down/1200?cb=20161114060522&path-prefix=pt-br</fanart>
+<info>A TV Cultura oferece conteúdos que unem informação, entretenimento e aprendizado, com destaque para programas infantis, séries, documentários, debates e jornalismo aprofundado. Ao longo dos anos, tornou-se referência nacional na produção de conteúdo educativo e cultural.</info>
+</item>
+
+               [ TV CULTURA HD  ]
+
+<item>
+<title>[B]TV Cultura HD[/B]</title>
+<link>https://dg25.me/live/78923556/67553349/3915996.ts</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncrG_rpIRL5syw3VYj2u_bVwKotSVFRl9CQymHOVkRTQAuwUObvZ9H24&s=10</thumbnail>
+<fanart>https://static.wikia.nocookie.net/tvpediabrasil/images/3/33/Tvcultura.jpg/revision/latest/scale-to-width-down/1200?cb=20161114060522&path-prefix=pt-br</fanart>
+<info>A TV Cultura oferece conteúdos que unem informação, entretenimento e aprendizado, com destaque para programas infantis, séries, documentários, debates e jornalismo aprofundado. Ao longo dos anos, tornou-se referência nacional na produção de conteúdo educativo e cultural.</info>
+</item>
+
+
+               [ TV CULTURA SD  ]
+
+<item>
+<title>[B]TV Cultura SD[/B]</title>
+<link>https://dg25.me/live/78923556/67553349/3915997.ts</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncrG_rpIRL5syw3VYj2u_bVwKotSVFRl9CQymHOVkRTQAuwUObvZ9H24&s=10</thumbnail>
+<fanart>https://static.wikia.nocookie.net/tvpediabrasil/images/3/33/Tvcultura.jpg/revision/latest/scale-to-width-down/1200?cb=20161114060522&path-prefix=pt-br</fanart>
+<info>A TV Cultura oferece conteúdos que unem informação, entretenimento e aprendizado, com destaque para programas infantis, séries, documentários, debates e jornalismo aprofundado. Ao longo dos anos, tornou-se referência nacional na produção de conteúdo educativo e cultural.</info>
+</item>
