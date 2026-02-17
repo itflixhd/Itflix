@@ -36,7 +36,7 @@ As cores colorida, corresponde o que está sendo feito no Addon. Para nossos usu
 <channel>
 <name>[B][COLOR yellow]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://drive.google.com/uc?export=download&id=1f6XHsLKJ3j4s0ZotN3XVWGgds7ZoEUOI</thumbnail>
-<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<externallink>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/Addon/s%C3%A9ries/menu_series.xml</externallink>
 <fanart>https://image.tmdb.org/t/p/original/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg</fanart>
 <info>[B]INFORMAÇÃO IMPORTANTE DOS NOSSO ADDON:[/B] 
 As cores colorida, corresponde o que está sendo feito no Addon. Para nossos usuários está ciente de tudo.
@@ -50,9 +50,9 @@ As cores colorida, corresponde o que está sendo feito no Addon. Para nossos usu
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white]MUNDO KIDS[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
-<externallink>https://pastebin.com/raw/qATfhjie</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<thumbnail>/NHRvpX</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
 <info>[B]INFORMAÇÃO IMPORTANTE DOS NOSSO ADDON:[/B] 
 As cores colorida, corresponde o que está sendo feito no Addon. Para nossos usuários está ciente de tudo.
 [B][COLOR lime]●[/COLOR] Online[/B] 
@@ -66,9 +66,9 @@ As cores colorida, corresponde o que está sendo feito no Addon. Para nossos usu
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white]MUNDO KIDS[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
-<externallink>https://pastebin.com/raw/qATfhjie</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
 <info>[B]INFORMAÇÃO IMPORTANTE DOS NOSSO ADDON:[/B] 
 As cores colorida, corresponde o que está sendo feito no Addon. Para nossos usuários está ciente de tudo.
 [B][COLOR lime]●[/COLOR] Online[/B] 
