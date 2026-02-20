@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.itflix" name="Repositorio ITFLIX" version="1.0.0" provider-name="Itamar">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="Repositorio ITFLIX">
+        <info compressed="false">https://raw.githubusercontent.com/itflixhd/Itflix/main/plugin-itflix/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/itflixhd/Itflix/main/plugin-itflix/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/itflixhd/Itflix/raw/main/plugin-itflix/plugin.video.itflix.matrix/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="pt">Repositorio oficial do ITFLIX</summary>
+        <description lang="pt">Instale e atualize o ITFLIX automaticamente.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
