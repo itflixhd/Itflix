@@ -1,22 +1,4 @@
 
-##### PESQUISA - get.php
-#url_b64_pesquisa = ''
-#url_pesquisa = base64.b64decode(url_b64_pesquisa).decode('utf-8')
-url_pesquisa_config = base64.b64decode('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2l0ZmxpeGhkL0l0ZmxpeC9yZWZzL2hlYWRzL21haW4vQWRkb24vcGVzcXVpc2FfY29uZmlnLnhtbA==').decode('utf-8')
-menu_pesquisar = '[COLOR white][B]PESQUISAR...[/B][/COLOR]'
-thumb_pesquisar = 'https://drive.google.com/uc?export=download&id=1iIMJmSxK79J3A2adhAN7864vcUqi6KkI'
-fanart_pesquisar = ''
-#### Descrição Pesquisa
-desc_pesquisa = 'Pesquise por filme'
-## MENU CONFIGURAÇÕES
-menu_configuracoes = '[B][COLOR white]CONFIGURAÇÕES[/COLOR][/B]'
-thumb_icon_config = 'https://i.imgur.com/8KUL2Rt.png'
-desc_configuracoes = 'Configure o addon Itflix conforme desejado Desativando ou ativando as notificações e muito mais.'
-## FAVORITOS
-menu_favoritos = '[B][COLOR white]FAVORITOS[/COLOR][/B]'
-thumb_favoritos = 'https://drive.google.com/uc?export=download&id=1Aic1MyaFUcpQLCODw3yz467CFUjY99Yp'
-desc_favoritos = 'Adicione Itens aos Favoritos, pressionando OK do controle ou clicando o direito e selecionando Adicionar aos favoritos'
-
   =============[ GLOBO 4K ]===========
                           
 <item>
