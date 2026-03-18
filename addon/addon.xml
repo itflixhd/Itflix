@@ -3,33 +3,33 @@
 <channels>
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Filmes[/COLOR][/B]</name>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_filmes.png</thumbnail>
     <externallink></externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
     <info></info>
   </channel>
 
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Series[/COLOR][/B]</name>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_series.png</thumbnail>
     <externallink></externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
     <info></info>
   </channel>
 
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Kids[/COLOR][/B]</name>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_kids.png</thumbnail>
     <externallink></externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
     <info></info>
   </channel>
 
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Animes [/COLOR][/B]</name>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_animes.png</thumbnail>
     <externallink></externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
     <info></info>
   </channel>
 
