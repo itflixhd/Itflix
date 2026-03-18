@@ -2,6 +2,22 @@
 <items>
 
   <item>
+    <title>[B]Teste 02[/B]</title>
+    <link>plugin://plugin.video.elementum/play?uri=</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <info></info>
+  </item>
+
+  <item>
+    <title>[B]Teste 01[/B]</title>
+    <link>plugin://plugin.video.elementum/play?uri=</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <info></info>
+  </item>
+
+  <item>
     <title>[B]Caminhos do Crime (2026)[/B]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92C95E845BD3C3CEC9470B985B2AF2EBBE397DF1&amp;dn=HIDRATORRENTS.ORG..Crime.101.2026.1080p.WEBRip.Dublado.mkv&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
     <thumbnail>https://image.tmdb.org/t/p/original/8kbqyoCw8ie1ZBzL9s00gJAPjDC.jpg</thumbnail>
