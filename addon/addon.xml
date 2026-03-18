@@ -1,0 +1,36 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+  <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Filmes[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <externallink></externallink>
+    <fanart></fanart>
+    <info></info>
+  </channel>
+
+  <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Series[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <externallink></externallink>
+    <fanart></fanart>
+    <info></info>
+  </channel>
+
+  <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Kids[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <externallink></externallink>
+    <fanart></fanart>
+    <info></info>
+  </channel>
+
+  <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Animes [/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <externallink></externallink>
+    <fanart></fanart>
+    <info></info>
+  </channel>
+
+</channels>
