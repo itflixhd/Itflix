@@ -2,6 +2,14 @@
 
 <channels>
   <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Teste[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <externallink></externallink>
+    <fanart></fanart>
+    <info></info>
+  </channel>
+
+  <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Filmes[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_filmes.png</thumbnail>
     <externallink></externallink>
