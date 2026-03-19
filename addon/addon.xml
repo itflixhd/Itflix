@@ -15,7 +15,7 @@ Aperte o play e viva o cinema do seu jeito</info>
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Séries 4k[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_series.png</thumbnail>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/itflixhd/Itflix/main/addon/series/series.xml</externallink>
     <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/fanart.png</fanart>
     <info>No ITFLIX, cada episódio é um convite para maratonar sem parar. Explore um universo de séries envolventes, com histórias intensas, cheias de mistério, ação, romance e reviravoltas surpreendentes.
 De dramas emocionantes a thrillers cheios de suspense, passando por comédias leves e produções cheias de adrenalina, aqui você encontra personagens marcantes e tramas que evoluem a cada episódio.
