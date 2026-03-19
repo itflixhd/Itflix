@@ -2,43 +2,46 @@
 
 <channels>
   <channel>
-    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Teste[/COLOR][/B]</name>
-    <thumbnail></thumbnail>
-    <externallink></externallink>
-    <fanart></fanart>
-    <info></info>
-  </channel>
-
-  <channel>
-    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Filmes[/COLOR][/B]</name>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Filmes 4k[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_filmes.png</thumbnail>
     <externallink></externallink>
-    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
-    <info></info>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/fanart.png</fanart>
+    <info>Prepare-se para mergulhar em emoções sem limites. No ITFLIX, você encontra uma seleção incrível de filmes que vão do suspense eletrizante ao romance inesquecível, passando por aventuras épicas, comédias leves e histórias que marcam para sempre.
+Descubra tramas envolventes, personagens cativantes e reviravoltas que prendem do início ao fim. Seja para rir, chorar ou ficar sem fôlego, sempre existe um filme perfeito esperando por você.
+No ITFLIX, cada play é uma nova experiência.
+Aperte o play e viva o cinema do seu jeito</info>
   </channel>
 
   <channel>
-    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Series[/COLOR][/B]</name>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Séries 4k[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_series.png</thumbnail>
     <externallink></externallink>
-    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
-    <info></info>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/fanart.png</fanart>
+    <info>No ITFLIX, cada episódio é um convite para maratonar sem parar. Explore um universo de séries envolventes, com histórias intensas, cheias de mistério, ação, romance e reviravoltas surpreendentes.
+De dramas emocionantes a thrillers cheios de suspense, passando por comédias leves e produções cheias de adrenalina, aqui você encontra personagens marcantes e tramas que evoluem a cada episódio.
+Prepare-se para se conectar, se surpreender e sempre querer “só mais um episódio”.</info>
   </channel>
 
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Kids[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_kids.png</thumbnail>
     <externallink></externallink>
-    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
-    <info></info>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/fanart.png</fanart>
+    <info>No ITFLIX KIDS, a diversão é garantida para os pequenos! Um mundo cheio de cores, aventuras mágicas e personagens encantadores que fazem cada momento ser especial.
+Aqui, as crianças exploram histórias educativas, desenhos animados divertidos e aventuras cheias de amizade, coragem e descobertas. Tudo pensado para entreter, ensinar e despertar a criatividade de forma segura.
+Perfeito para rir, aprender e sonhar alto todos os dias!
+ No ITFLIX KIDS, brincar e aprender andam juntos.</info>
   </channel>
 
   <channel>
-    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Animes [/COLOR][/B]</name>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Animes[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_animes.png</thumbnail>
     <externallink></externallink>
-    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix.png</fanart>
-    <info></info>
+    <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/fanart.png</fanart>
+    <info>No ITFLIX ANIMES, você mergulha em universos incríveis onde tudo é possível. De batalhas intensas a jornadas emocionantes, cada anime traz histórias marcantes, personagens inesquecíveis e cenas que ficam na memória.
+Explore mundos cheios de ação, fantasia, drama e superação, com tramas que prendem do primeiro ao último episódio. Aqui, cada detalhe importa e cada luta tem um propósito.
+Seja você fã de aventuras épicas, poderes extraordinários ou histórias profundas, o ITFLIX ANIMES é o seu lugar.
+ Prepare-se para maratonar, se emocionar e viver cada episódio como uma nova batalha.</info>
   </channel>
 
 </channels>
