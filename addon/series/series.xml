@@ -4,9 +4,17 @@
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Lançamentos 2025/2026[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_series.png</thumbnail>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/itflixhd/Itflix/main/addon/series/lancamentos/2025-206.xml</externallink>
     <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/fanart.png</fanart>
     <info>Descubra o melhor das novidades com a categoria Séries – Lançamentos 2025 e 2026. Aqui você encontra as produções mais recentes que estão conquistando o público, desde histórias envolventes e cheias de suspense até comédias leves e dramas emocionantes. Prepare-se para maratonar conteúdos inéditos, acompanhar personagens cativantes e ficar por dentro de tudo que está bombando no mundo das séries.</info>
+  </channel>
+
+  <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white][/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <externallink></externallink>
+    <fanart></fanart>
+    <info></info>
   </channel>
 
 </channels>
