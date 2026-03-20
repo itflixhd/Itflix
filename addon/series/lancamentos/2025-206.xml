@@ -2,6 +2,15 @@
 
 <channels>
   <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Emergência Radioativa 1 Temporada (2026)[/COLOR][/B]</name>
+    <thumbnail>https://image.tmdb.org/t/p/original/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg</thumbnail>
+    <externallink>https://raw.githubusercontent.com/itflixhd/Itflix/main/addon/series/lancamentos/emerg-ncia-radioativa-1-temporada-2026-episodios.xml</externallink>
+    <fanart>https://image.tmdb.org/t/p/original/9aKS47D5lil0JqCaL2HWgnZrWNH.jpg</fanart>
+    <info>Sinopse
+Físicos e médicos entram em uma corrida contra o tempo para salvar a cidade e milhares de vidas após um grave acidente radiológico.</info>
+  </channel>
+
+  <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Star Trek: Academia da Frota Estelar 1 Temporada [/COLOR][/B]</name>
     <thumbnail>https://image.tmdb.org/t/p/original/yZIJDHp5BXIwoWOdJ9nXYXDN92G.jpg</thumbnail>
     <externallink>https://raw.githubusercontent.com/itflixhd/Itflix/main/addon/series/lancamentos/star-trek-academia-da-frota-estelar-1-temporada-episodios.xml</externallink>
