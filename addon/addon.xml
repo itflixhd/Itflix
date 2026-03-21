@@ -2,6 +2,14 @@
 
 <channels>
   <channel>
+    <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Canais em brevem[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <externallink></externallink>
+    <fanart></fanart>
+    <info></info>
+  </channel>
+
+  <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Filmes 4k[/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_filmes.png</thumbnail>
     <externallink>https://raw.githubusercontent.com/itflixhd/Itflix/main/addon/filmes/filmes.xml</externallink>
