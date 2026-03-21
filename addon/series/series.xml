@@ -12,7 +12,7 @@
   <channel>
     <name>[B][COLOR yellow]●[/COLOR] [COLOR white]Coleção [/COLOR][/B]</name>
     <thumbnail>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/itflix_series.png</thumbnail>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/itflixhd/Itflix/main/addon/series/colecao/series-colecao.xml</externallink>
     <fanart>https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/addon/imagem/fanart.png</fanart>
     <info>No ITFLIX, a coleção de séries foi criada para quem vive intensamente cada episódio. Aqui você encontra histórias que prendem do começo ao fim — dos dramas mais emocionantes às aventuras cheias de ação, passando por comédias leves, suspense eletrizante e mundos cheios de fantasia.
 Prepare-se para maratonar narrativas envolventes, personagens marcantes e reviravoltas que vão te surpreender a cada temporada. No ITFLIX, sempre tem uma nova série esperando para se tornar a sua próxima obsessão.</info>
