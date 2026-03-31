@@ -1,32 +1,7 @@
-import requests
+#EXTM3U url-tvg="https://epg.tvnow.best/epg.xml"
 
-url1 = "https://raw.githubusercontent.com/itflixhd/Iptvz/refs/heads/main/lista_filtrada"
-url2 = "https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/iptv.php"
+#EXTINF:-1 tvg-id="teste1" tvg-name="Canal Teste 1" group-title="TESTE",Canal Teste 1
+https://raw.githubusercontent.com/itflixhd/Itflix/refs/heads/main/iptv.m3u8
 
-lista1 = requests.get(url1).text.splitlines()
-lista2 = requests.get(url2).text.splitlines()
-
-canais1 = {}
-nova_lista = ["#EXTM3U"]
-
-# 🔹 Pega links da lista 1
-for i in range(len(lista1)):
-    if lista1[i].startswith("#EXTINF"):
-        nome = lista1[i].split(",")[-1].strip().lower()
-        link = lista1[i+1]
-        canais1[nome] = link
-
-# 🔹 Monta nova lista com info da lista 2
-for i in range(len(lista2)):
-    if lista2[i].startswith("#EXTINF"):
-        nome = lista2[i].split(",")[-1].strip().lower()
-        
-        if nome in canais1:
-            nova_lista.append(lista2[i])
-            nova_lista.append(canais1[nome])
-
-# 🔹 Salva arquivo final
-with open("ITFLIX_FINAL.m3u", "w", encoding="utf-8") as f:
-    f.write("\n".join(nova_lista))
-
-print("Lista criada com sucesso!")
+#EXTINF:-1 tvg-id="teste2" tvg-name="Canal Teste 2" group-title="TESTE",Canal Teste 2
+https://raw.githubusercontent.com/itflixhd/Iptvz/refs/heads/main/lista_filtrada.m3u8
