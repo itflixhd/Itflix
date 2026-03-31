@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://cazuza.cc/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
-http://cazuza.cc:80/Getulio19/uwXN5/90647.ts
+http://cazuza.cc:80/Getulio19/uwXN5/90647.m3u8
 #EXTINF:-1 tvg-logo="http://cazuza.cc/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
-http://cazuza.cc:80/Getulio19/uwXN5/71760.ts
+http://cazuza.cc:80/Getulio19/uwXN5/71760.m3u8
 #EXTINF:-1 tvg-logo="http://cazuza.cc/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
 http://cazuza.cc:80/Getulio19/uwXN5/71761.ts
 #EXTINF:-1 tvg-logo="http://cazuza.cc/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
