@@ -1,6 +1,6 @@
 <?php
 // MyCinema — Lista de Títulos
-// Gerado em: 03/04/2026, 16:36:19
+// Gerado em: 04/04/2026, 23:00:56
 // Total: 3 títulos
 
 header('Content-Type: application/json');
