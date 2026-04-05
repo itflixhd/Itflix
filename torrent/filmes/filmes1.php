@@ -1,12 +1,13 @@
 <?php
 // MyCinema — Lista de Títulos
-// Gerado em: 05/04/2026, 00:32:55
-// Total: 6 títulos
+// Gerado em: 05/04/2026, 00:35:38
+// Total: 7 títulos
 
 header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 
 $lista = [
+  ['id'=>1775360138693,'name'=>'Peaky Blinders: O Homem Imortal','type'=>'movie','tmdbCode'=>'875828','poster'=>'https://image.tmdb.org/t/p/w342/8XLNDeumvz0cXa6sntZJ6p4zfLb.jpg','magnetUrl'=>'magnet:?xt=urn:btih:d8e3dd5c61d2ed6d553172e5b27416764c6d0a0a&dn=Peaky.Blinders.O.Homem.Imortal.2026.1080p.WEB-DL.x264.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce','year'=>'2026','rating'=>'7.3','addedAt'=>'05/04/2026','source'=>'local'],
   ['id'=>1775359975116,'name'=>'Corajosa 3','type'=>'movie','tmdbCode'=>'1339876','poster'=>'https://image.tmdb.org/t/p/w342/odEZ7CY6TlELZHptwEyNy65XaRg.jpg','magnetUrl'=>'magnet:?xt=urn:btih:07368cc7d44c02c3a0f7d6c5836b40c53c6067c3&dn=Mardaani.3.2026.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce','year'=>'2026','rating'=>'7.5','addedAt'=>'05/04/2026','source'=>'local'],
   ['id'=>1775359250449,'name'=>'Máquina de Guerra','type'=>'movie','tmdbCode'=>'1265609','poster'=>'https://image.tmdb.org/t/p/w342/48h40o6Q97hZaqH0g7bOiXOrImX.jpg','magnetUrl'=>'magnet:?xt=urn:btih:27e947e57868b798139670f2b28c9927691cf3d7&dn=HIDRATORRENTS.ORG...MKV.-DUBLADO-DUAL-AUDIO-..','year'=>'2026','rating'=>'7.3','addedAt'=>'05/04/2026','source'=>'local'],
   ['id'=>1775356984204,'name'=>'Um Cabra Bom de Bola','type'=>'movie','tmdbCode'=>'1297842','poster'=>'https://image.tmdb.org/t/p/w342/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg','magnetUrl'=>'magnet:?xt=urn:btih:13548420d185946e0073ec0b374409f860a0e3fe&dn=HIDRATORRENTS.ORG..MKV.Um%20Cabra%20Bom%20de%20Bola.2026.1080p.WEB-DL.x264.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce','year'=>'2026','rating'=>'7.9','addedAt'=>'04/04/2026','source'=>'local'],
